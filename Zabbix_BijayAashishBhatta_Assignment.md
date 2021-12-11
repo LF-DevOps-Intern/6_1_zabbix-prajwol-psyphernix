@@ -34,5 +34,11 @@ Server Dashboard:**
 
 3. **Installing Latest Zabbix Agent on VM or host machine or server itself to fetch logs:**
 
-	![image](https://user-images.githubusercontent.com/34814966/145667753-d0d0802b-a2ad-46aa-b9f8-48c3c3409815.png)
+	![image](https://user-images.githubusercontent.com/34814966/145670453-2850b56d-f0a7-4095-aea0-f5f36998f7bf.png)
 
+   		$ sudo usermod -aG syslog zabbix
+		
+	![image](https://user-images.githubusercontent.com/34814966/145671091-ff82b845-a0e8-4c6d-8f8f-62a671b59f99.png)
+
+	
+	
