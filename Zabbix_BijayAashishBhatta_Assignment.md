@@ -3,7 +3,7 @@
 		$ sudo wget https://repo.zabbix.com/zabbix/5.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_5.0-1+focal_all.deb
 		$ sudo dpkg -i zabbix-release_5.0-1+focal_all.deb
 		$ sudo apt update
-		$ sudo apt install zabbix-server-mysql zabbix-frontend-php zabbix-apache-conf zabbix-agent
+		$ sudo apt install zabbix-server-mysql zabbix-frontend-php zabbix-apache-conf zabbix-agent php-mysql
 		$ mysql -uroot -p
 		mysql> create database zabbix character set utf8 collate utf8_bin;
 		mysql> create user zabbix@localhost identified by 'password';
@@ -32,7 +32,7 @@ Server Dashboard:**
 
 ![image](https://user-images.githubusercontent.com/34814966/145665933-5eefeedf-6039-427d-ba0c-30792f8f7dbf.png)
 
-
-
 3. **Installing Latest Zabbix Agent on VM or host machine or server itself to fetch logs:**
+
+	![image](https://user-images.githubusercontent.com/34814966/145667753-d0d0802b-a2ad-46aa-b9f8-48c3c3409815.png)
 
