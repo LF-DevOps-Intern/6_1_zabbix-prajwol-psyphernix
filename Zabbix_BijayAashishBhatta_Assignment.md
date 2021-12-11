@@ -37,8 +37,30 @@ Server Dashboard:**
 	![image](https://user-images.githubusercontent.com/34814966/145670453-2850b56d-f0a7-4095-aea0-f5f36998f7bf.png)
 
    		$ sudo usermod -aG syslog zabbix
+		$ sudo chmod 644 /var/log/syslog
 		
 	![image](https://user-images.githubusercontent.com/34814966/145671091-ff82b845-a0e8-4c6d-8f8f-62a671b59f99.png)
 
+	![image](https://user-images.githubusercontent.com/34814966/145672087-ccec03d3-b579-47ee-a93d-94e1d34a63dd.png)
 	
-	
+	![image](https://user-images.githubusercontent.com/34814966/145672123-5fa535fb-70a7-4dfd-b179-6aa5af4fbb6e.png)
+
+	![image](https://user-images.githubusercontent.com/34814966/145672143-ebb6fd42-ac4a-4bda-b50d-16881d5ab564.png)
+
+	![image](https://user-images.githubusercontent.com/34814966/145672159-307b646a-3aeb-44a4-a097-d82177446a28.png)
+
+	![image](https://user-images.githubusercontent.com/34814966/145672179-af57a511-ca15-4fa9-91d7-1a6fc812a8db.png)
+
+	![image](https://user-images.githubusercontent.com/34814966/145672185-06ea5792-7d42-4dae-b4c6-501a5a905c83.png)
+
+	![image](https://user-images.githubusercontent.com/34814966/145672208-51952637-713c-4afd-aa22-613dc6811af0.png)
+
+	![image](https://user-images.githubusercontent.com/34814966/145672226-fa3edf49-966d-4a08-9fa8-5d219f676443.png)
+
+	![image](https://user-images.githubusercontent.com/34814966/145672249-7d69bea3-b35f-4cee-b8da-1bab5bc5c0df.png)
+
+	![image](https://user-images.githubusercontent.com/34814966/145672269-9aeed89e-dfbf-4db6-a412-29b715c5c083.png)
+
+	![image](https://user-images.githubusercontent.com/34814966/145672302-6619f0c3-7f0d-42b7-8377-034ca7b234a4.png)
+
+	![image](https://user-images.githubusercontent.com/34814966/145672309-b1357a38-e9f1-485a-be8c-c11d074cf5d4.png)
