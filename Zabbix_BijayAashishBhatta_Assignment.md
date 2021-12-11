@@ -22,6 +22,17 @@
 2. **Screenshot of Running Zabbix Server service, Database config parameter in server config file, and
 Server Dashboard:**
 
+		$ sudo systemctl status zabbix-server
+		
+![image](https://user-images.githubusercontent.com/34814966/145665213-a68f87d7-2195-4a1e-b435-0d72aad26e81.png)
+
+		$ cat /etc/zabbix/zabbix_server.conf
+		
+![image](https://user-images.githubusercontent.com/34814966/145665250-3cd915a0-454e-4cc6-b9e1-8e6c024b8ffe.png)
+
+![image](https://user-images.githubusercontent.com/34814966/145665933-5eefeedf-6039-427d-ba0c-30792f8f7dbf.png)
+
+
 
 3. **Installing Latest Zabbix Agent on VM or host machine or server itself to fetch logs:**
 
