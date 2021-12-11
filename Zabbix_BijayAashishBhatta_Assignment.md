@@ -15,7 +15,8 @@
 		$ sudo ystemctl restart zabbix-server zabbix-agent apache2
 		$ sudo systemctl enable zabbix-server zabbix-agent apache2
 	
-	![image](https://user-images.githubusercontent.com/34814966/145663590-b5088ece-98cb-45bc-8b33-d78bc3fbca8a.png)
+	![image](https://user-images.githubusercontent.com/34814966/145665092-062087c6-95db-49e7-a7bc-9eb5b9d0954e.png)
+
 	![image](https://user-images.githubusercontent.com/34814966/145663682-f2e0fe54-048f-46c0-ad95-d8dc50fe0088.png)
 
 2. **Screenshot of Running Zabbix Server service, Database config parameter in server config file, and
